@@ -1,2 +1,3 @@
 ### Діаграма прецедентів програмного продукту
-![use_case](/1-SoftwareRequirements/1.3-SoftwareUserRequirements/1.3.3-UseCaseDiagram/use_case.jpg)
+![Use Case](https://github.com/ai-214-lukachinskij/1.3-SoftwareUserRequirements/blob/Laboratory_Work_2/1.3.3-UseCaseDiagram/use_case.jpg)
+
