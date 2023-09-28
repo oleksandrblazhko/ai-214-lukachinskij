@@ -1,11 +1,6 @@
-Feature: Ведення обліку фінансів
+Feature: Financial Tracking
+In order to effectively track my finances
+As a user
+I want to record my income and expenses, categorize transactions, and generate financial reports.
 
-  Scenario: Користувач вводить дохід
-    Given Користувач авторизований у системі
-    When Користувач вводить дані про дохід
-    Then Інформація про дохід додана до обліку
-
-  Scenario: Користувач вводить витрату
-    Given Користувач авторизований у системі
-   
 

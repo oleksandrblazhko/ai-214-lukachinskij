@@ -1,7 +1,4 @@
-Feature: Створення бюджету
-
-  Scenario: Користувач створює новий бюджет
-    Given Користувач авторизований у системі
-    When Користувач натискає кнопку "Створити бюджет"
-    Then Користувач може ввести назву та параметри нового бюджету
-
+Feature: Budget Creation
+In order to manage my finances better
+As a user
+I want to create budgets, set spending limits for different categories, and track my expenses against the budget.

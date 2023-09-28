@@ -1,7 +1,4 @@
-Feature: Отримання фінансових порад
-
-  Scenario: Користувач отримує фінансову пораду
-    Given Користувач авторизований у системі
-    When Користувач натискає кнопку "Отримати пораду"
-    Then Користувач отримує корисну фінансову пораду від системи
-
+Feature: Financial Advice
+In order to receive financial advice and recommendations
+As a user
+I want to receive personalized financial tips and recommendations based on my financial data and goals.
