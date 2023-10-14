@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-10-11T12:44:36.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="OYvXV1SbR1G13Ep8B1VE" version="22.0.4" type="device">
+  <diagram name="Страница — 1" id="_nxsnCKDdp9Tido3llgT">
+    <mxGraphModel dx="2852" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="809" y="890" width="270" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-2" value="AirPurity Prosperity" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="oSBFTI3M8UVQWP8sQZfG-1">
+          <mxGeometry width="270" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-3" value="Меню фінансів" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="oSBFTI3M8UVQWP8sQZfG-1">
+          <mxGeometry x="52.5" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Написати&amp;nbsp;фінансовий раднику&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="oSBFTI3M8UVQWP8sQZfG-1">
+          <mxGeometry x="35" y="160" width="195" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;Фінансові новини&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="oSBFTI3M8UVQWP8sQZfG-1">
+          <mxGeometry x="35" y="240" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-6" value="AirPurity Prosperity" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1040" width="270" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-7" value="Доброго дня, бажаю отримати &lt;br&gt;фінансову пораду" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#000000;strokeWidth=1;fillColor=#E9ECEF;fontColor=#505050;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1510" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.pointer;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="1515" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1070" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Фінансовий радник&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="1290" y="1070" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oSBFTI3M8UVQWP8sQZfG-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.022;exitY=0.543;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.298;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oSBFTI3M8UVQWP8sQZfG-4" target="oSBFTI3M8UVQWP8sQZfG-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="1240" as="sourcePoint" />
+            <mxPoint x="1060" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
