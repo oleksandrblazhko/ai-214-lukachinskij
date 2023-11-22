@@ -1,0 +1,44 @@
+@startuml
+
+hide circle
+title Classes
+
+Class record {
+    -record_name : text
+    -summ : int
+    -date : date
+    -source: text
+    -----
+    -sortListByDate()
+    -createRecordCategory()
+    -sortListByCategory()
+}
+
+Class category_r {
+    +record_category_name
+}
+
+Class budget {
+    -limit : int
+    -budget_name : text
+    -----
+    -setLimit()
+    -createBudgetCategory()
+    -sortListByCategoryDudget()
+}
+
+Class category_b{
+    +budget_category_name : text
+}
+
+
+
+budget"+" -- "+"category_b 
+
+record"+" -- "+"category_r 
+
+
+
+
+
+@enduml
