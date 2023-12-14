@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION sortListByDate(p_date IN NUMBER, p_current_date IN NUMBER)
+CREATE OR REPLACE FUNCTION sortListByDate(p_date IN VARCHAR2, p_current_date IN VARCHAR2)
 RETURN NUMBER
 IS
     l_year NUMBER;
@@ -6,18 +6,18 @@ IS
     l_day NUMBER;
 BEGIN
     -- Умова 2: Перевірка чи дата не раніше 01.01.1975
-    l_year := EXTRACT(YEAR FROM TO_DATE(p_date, 'YYYYMMDD'));
+    l_year := EXTRACT(YEAR FROM TO_DATE(p_date, 'DD-MM-YYYY'));
     IF l_year < 1975 THEN
         RETURN 0; -- Недопустимі значення для змінної date
     END IF;
 
     -- Умова 1: Перевірка чи date не пізніше сьогоднішньої дати (current_date)
-    IF p_date > p_current_date THEN
+    IF TO_DATE(p_date, 'DD-MM-YYYY') > TO_DATE(p_current_date, 'DD-MM-YYYY') THEN
         RETURN -1; -- Недопустимі значення для змінної current_date
     END IF;
 
     -- Умова 3: Перевірка чи current_date не раніше 26.11.2023
-    IF p_current_date < 20231126 THEN
+    IF TO_DATE(p_current_date, 'DD-MM-YYYY') < TO_DATE('26-11-2023', 'DD-MM-YYYY') THEN
         RETURN -1; -- Недопустимі значення для змінної current_date
     END IF;
 
