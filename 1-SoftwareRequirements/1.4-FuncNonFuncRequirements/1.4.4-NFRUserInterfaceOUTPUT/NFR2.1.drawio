@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net" modified="2023-10-11T12:45:37.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60" etag="YzGZlgblpCBg8xKbCPWv" version="22.0.4" type="device">
+  <diagram name="Страница — 1" id="nDBUXeBYt-qj_g6qCODn">
+    <mxGraphModel dx="599" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ur4_FoIVv9z819oPDMkd-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1160" y="330" width="270" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-2" value="AirPurity Prosperity" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="ur4_FoIVv9z819oPDMkd-1">
+          <mxGeometry width="270" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-3" value="&amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre; font-size: 17px;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;font-size: 17px; white-space: pre;&quot;&gt;&amp;nbsp;     &lt;/span&gt;100 грн" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=14;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="ur4_FoIVv9z819oPDMkd-1">
+          <mxGeometry x="35" y="140" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-4" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Магазин" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=14;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="ur4_FoIVv9z819oPDMkd-1">
+          <mxGeometry x="35" y="200" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-5" value="Додати витрату" style="rounded=1;fillColor=#007FFF;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="ur4_FoIVv9z819oPDMkd-1">
+          <mxGeometry x="45" y="361" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-6" value="Додати прибуток" style="rounded=1;fillColor=#007FFF;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="ur4_FoIVv9z819oPDMkd-1">
+          <mxGeometry x="45" y="430" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 09.10.23" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=14;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="ur4_FoIVv9z819oPDMkd-1">
+          <mxGeometry x="35" y="260" width="195" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-8" value="Залишок: 8280&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=14;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="ur4_FoIVv9z819oPDMkd-1">
+          <mxGeometry x="140" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-9" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="330" width="270" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-10" value="Ваш залишок: 8180 грн" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="470" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-11" value="Залишок на рахунку" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=none;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="ur4_FoIVv9z819oPDMkd-10">
+          <mxGeometry width="250.00000000000003" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-12" value="" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;" vertex="1" parent="ur4_FoIVv9z819oPDMkd-11">
+          <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-25" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-13" value="OK" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;whiteSpace=wrap;fillColor=none;" vertex="1" parent="ur4_FoIVv9z819oPDMkd-10">
+          <mxGeometry x="0.75" y="1" width="110" height="38" relative="1" as="geometry">
+            <mxPoint x="-117" y="-43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ur4_FoIVv9z819oPDMkd-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ur4_FoIVv9z819oPDMkd-5" target="ur4_FoIVv9z819oPDMkd-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="710" as="sourcePoint" />
+            <mxPoint x="1160" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,59 @@
+@startuml
+title Example of Relation Schema
+
+hide circle
+
+entity "Record" as rd {
+    (PK) record_id
+    --
+    record_name
+    date
+    summ
+    source
+    --
+    (FK) record_category_id_id
+}
+
+entity "Budget" as bd {
+    (PK) budget_id
+    --
+    limit
+    budget_name
+    --
+    (FK) budget_category_id
+}
+
+entity "category_r" as ctr {
+    (PK) category_r_id
+    --
+    record_category_name
+    --
+    (FK) record_id
+}
+
+entity "category_b" as ctb {
+    (PK) category_b_id
+    --
+    budget_category_name
+    --
+    (FK) budget_id
+}
+
+entity "record_category" as rc {
+    (PK, FK1) category_r_id
+    --
+    (PK, FK2) record_id
+}
+
+entity "budget_category" as bc {
+    (PK, FK1) category_b_id
+    --
+    (PK, FK2) budget_id
+}
+bc --{ ctb
+bd --{ ctb
+
+ctr --{ rc
+rd --{ rc
+
+@enduml

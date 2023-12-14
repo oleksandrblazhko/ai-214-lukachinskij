@@ -1,0 +1,42 @@
+@startuml
+
+title UML-діаграма розгортання ПП
+
+left to right direction
+
+skinparam componentStyle uml1
+
+node "<<Смартфон>>" as wp {
+	node "<OS Android>>" as a1 {
+		component [*.apk (Android Studio)]
+	}
+}
+
+interface Мікрофон
+
+interface СенсорнийЕкран
+
+Мікрофон -- wp
+
+СенсорнийЕкран -- wp
+
+node "<<сервер 2>>" as serv1 {
+	node "<<ОС Linux>>" as l2 {
+	  node "<<Application Server Apache Tomcat>>"{
+	    component [*.jar]
+	  }
+	}
+}
+
+node "<<сервер 4>>" as serv2 {
+	node "<<ОС Linux>>" as w3 {
+	  node "<<DataBase Server PostgreSQL>>"{
+	    component [Relation Database]
+	  }
+	}
+}
+
+wp -- serv1
+serv1 -- serv2
+
+@enduml
